@@ -2,7 +2,7 @@
 -- Dataset: bigquery-public-data.ga4_obfuscated_sample_ecommerce
 -- Date range: 2020-11-01 to 2021-01-31
 
--- Step 3.5: Funnel by channel (view -> cart -> checkout -> purchase)
+-- Step 3: Funnel by channel (view -> cart -> checkout -> purchase)
 WITH base AS (
   SELECT
     user_pseudo_id,
