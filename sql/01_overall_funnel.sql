@@ -1,3 +1,7 @@
+-- GA4 Funnel Analysis (BigQuery)
+-- Dataset: bigquery-public-data.ga4_obfuscated_sample_ecommerce
+-- Date range: 2020-11-01 to 2021-01-31
+
 -- Step 1: Overall funnel conversion (session-level)
 WITH base AS (
   SELECT
