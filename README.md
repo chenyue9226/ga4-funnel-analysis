@@ -8,8 +8,8 @@
 ---
 
 ## 数据来源
-- Dataset：`bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
-  https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset
+- 数据集：`bigquery-public-data.ga4_obfuscated_sample_ecommerce.events_*`
+- 链接：https://developers.google.com/analytics/bigquery/web-ecommerce-demo-dataset
 - 时间范围：2020/11/01 – 2021/01/31  
 - 说明：数据为 **obfuscated（匿名/模糊化）样本数据**
 
